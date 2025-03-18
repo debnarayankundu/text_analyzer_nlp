@@ -50,8 +50,13 @@ Install them using:
 ```bash
 pip install streamlit pandas torch transformers PyPDF2
 ```
+## summarizer
 
 ![image](https://github.com/user-attachments/assets/f5fd999d-b727-43ba-b2e4-33305a0b22b5)
+
+## named entity recognition
+
+![image](https://github.com/user-attachments/assets/13ba44c8-c1cc-4f2f-9d12-e6ae326955fd)
 
 
 
