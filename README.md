@@ -51,6 +51,7 @@ Install them using:
 pip install streamlit pandas torch transformers PyPDF2
 ```
 
+![image](https://github.com/user-attachments/assets/f5fd999d-b727-43ba-b2e4-33305a0b22b5)
 
 
 
