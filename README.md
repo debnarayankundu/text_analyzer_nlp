@@ -20,19 +20,15 @@ Ensure you have Python 3.7+ installed on your system.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/debnarayankundu/text_analyzer_nlp.git
+   cd text_analyzer_nlp
    ```
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
-   ```
-3. Install dependencies:
+
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the Streamlit app:
+3. Run the Streamlit app:
    ```bash
    streamlit run app.py
    ```
